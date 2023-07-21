@@ -25,3 +25,15 @@ If you're looking for resources related to language models, here are a couple of
 - [EleutherAI GPT-Neo 1.3B Model](https://huggingface.co/EleutherAI/gpt-neo-1.3B/tree/main): This repository contains the GPT-Neo 1.3B model provided by EleutherAI. You can explore the model and find instructions on how to use it.
 
 Feel free to use this markdown as a reference for your GitHub repository.
+
+
+# Working latest Llama2 Model By meta 
+
+### [Meta's Latest Llama2 Model](https://ai.meta.com/)
+
+Meta has released the latest Llama2 model. You can learn more about it on their [official website](https://ai.meta.com/).
+
+### Deploying Llama2 Model in AWS 
+
+The Llama2 model can be deployed in Amazon Web Services (AWS). Detailed instructions and further information are provided in this [AWS blog post](https://aws.amazon.com/blogs/machine-learning/llama-2-foundation-models-from-meta-are-now-available-in-amazon-sagemaker-jumpstart/?trk=e4a2b997-0a82-42dc-ab3c-acc904ce1365&sc_channel=sm).
+
