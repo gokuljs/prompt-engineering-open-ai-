@@ -37,3 +37,12 @@ Meta has released the latest Llama2 model. You can learn more about it on their 
 
 The Llama2 model can be deployed in Amazon Web Services (AWS). Detailed instructions and further information are provided in this [AWS blog post](https://aws.amazon.com/blogs/machine-learning/llama-2-foundation-models-from-meta-are-now-available-in-amazon-sagemaker-jumpstart/?trk=e4a2b997-0a82-42dc-ab3c-acc904ce1365&sc_channel=sm).
 
+- **[LoRA](https://arxiv.org/pdf/2106.09685.pdf)**: LOW-RANK ADAPTATION OF LARGE LANGUAGE MODELS
+- **[Prefix Tuning](https://arxiv.org/pdf/2110.07602.pdf)**: P-Tuning v2: Prompt Tuning Can Be Comparable to Fine-tuning Universally Across Scales and Tasks
+- **[P-Tuning](https://arxiv.org/pdf/2103.10385.pdf)**: GPT Understands, Too
+- **[Prompt Tuning](https://arxiv.org/pdf/2104.08691.pdf)**: The Power of Scale for Parameter-Efficient Prompt Tuning
+- **[IA3](https://arxiv.org/abs/2205.05638)**: Infused Adapter by Inhibiting and Amplifying Inner Activations
+- **[Hugging Face PEFT](https://github.com/huggingface/peft)**
+
+
+
