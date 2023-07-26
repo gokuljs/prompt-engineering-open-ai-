@@ -45,4 +45,7 @@ The Llama2 model can be deployed in Amazon Web Services (AWS). Detailed instruct
 - **[Hugging Face PEFT](https://github.com/huggingface/peft)**
 
 
+[Small video about deployment to fine-tuning and prompting (YouTube)](https://www.youtube.com/watch?v=Q9zv369Ggfk&t=29s)
+
+
 
